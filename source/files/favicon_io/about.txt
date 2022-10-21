@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Kosugi Maru
+- Font Author: Copyright 2010 The Kosugi Maru Project Authors (https://github.com/googlefonts/kosugi-maru)
+- Font Source: http://fonts.gstatic.com/s/kosugimaru/v14/0nksC9PgP_wGh21A2KeqGiTqivr9iBq_.ttf
+- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
